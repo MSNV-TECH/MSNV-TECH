@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="MSNV TECH Logo - Original.png" source="original">
+    <mtime>1673783918</mtime>
+    <size>39359</size>
+    <md5>1637bb50076189a4a7ea4a2f95072aeb</md5>
+    <crc32>c846e455</crc32>
+    <sha1>2ecf83aa60e82cf8bd9707131d2f99522e849a82</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="MSNV TECH Logo - Original_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>MSNV TECH Logo - Original.png</original>
+    <mtime>1673783960</mtime>
+    <size>9897</size>
+    <md5>0e4df605da6eb323e94e3e8419cfc2ad</md5>
+    <crc32>858395c9</crc32>
+    <sha1>2543b39b24f4527e2743ab1f84137db2105a8e7c</sha1>
+  </file>
+  <file name="MSNV TECH Logo.ai" source="original">
+    <mtime>1673776356</mtime>
+    <size>18944</size>
+    <md5>ad277deecf413afbd923b9a22254c262</md5>
+    <crc32>485853fe</crc32>
+    <sha1>4ab14039e8d0b02f176ca8e3ce5aa0ef616b584a</sha1>
+    <format>Adobe Illustrator</format>
+    <viruscheck>1673776521</viruscheck>
+  </file>
+  <file name="MSNV TECH Logo.dxf" source="original">
+    <mtime>1673776375</mtime>
+    <size>431964</size>
+    <md5>dbf44531d1400fa1b33432525a1af790</md5>
+    <crc32>865d4dd0</crc32>
+    <sha1>8058d25c16c4724e5e6d47d8e70e2899febad280</sha1>
+    <format>Unknown</format>
+    <viruscheck>1673776521</viruscheck>
+  </file>
+  <file name="MSNV TECH Logo.emf" source="original">
+    <mtime>1673776378</mtime>
+    <size>16600</size>
+    <md5>9336a589975bdb7e7cf0f023f13caf6d</md5>
+    <crc32>f0ee96b3</crc32>
+    <sha1>b9bf8568ce8e3b9b15d800cb6d07348152b17a86</sha1>
+    <format>Unknown</format>
+    <viruscheck>1673776521</viruscheck>
+  </file>
+  <file name="MSNV TECH Logo.eps" source="original">
+    <mtime>1673776380</mtime>
+    <size>19295</size>
+    <md5>de4742e0681f06d186b20e9c7324f438</md5>
+    <crc32>b939abba</crc32>
+    <sha1>03a9c3600ed6a6b3a4579c10f90163cfe12a3c79</sha1>
+    <format>Unknown</format>
+    <viruscheck>1673776521</viruscheck>
+  </file>
+  <file name="MSNV TECH Logo.pdf" source="original">
+    <mtime>1673776383</mtime>
+    <size>17729</size>
+    <md5>ef7959d913c8a67d4833353bef26f750</md5>
+    <crc32>c5e80f18</crc32>
+    <sha1>eca68515f00ad2c272bb11afdb980eef2b0f62fd</sha1>
+    <format>Image Container PDF</format>
+    <viruscheck>1673776521</viruscheck>
+  </file>
+  <file name="MSNV TECH Logo.svg" source="original">
+    <mtime>1673776386</mtime>
+    <size>17143</size>
+    <md5>33d52bf76d89875f75aefb1363e2b81b</md5>
+    <crc32>908581ff</crc32>
+    <sha1>2c6da37d8106070a45322dc8e44280ca855ecba9</sha1>
+    <format>Unknown</format>
+    <viruscheck>1673776521</viruscheck>
+  </file>
+  <file name="MSNV TECH Logo_chocr.html.gz" source="derivative">
+    <ocr>tesseract 5.3.0-1-gd3a4: language not currently OCRable</ocr>
+    <ocr_module_version>0.0.18</ocr_module_version>
+    <format>chOCR</format>
+    <original>MSNV TECH Logo_jp2.zip</original>
+    <mtime>1673777428</mtime>
+    <size>491</size>
+    <md5>db400fea047ee039ba78d69b35444330</md5>
+    <crc32>b76c9657</crc32>
+    <sha1>6349b5359cb03c199d88be4f359f996658bfeb0d</sha1>
+  </file>
+  <file name="MSNV TECH Logo_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>MSNV TECH Logo_hocr.html</original>
+    <mtime>1673777445</mtime>
+    <size>89</size>
+    <md5>e6eb43535230ee69935d72330ed82457</md5>
+    <crc32>c67e4b93</crc32>
+    <sha1>39d1c397b70906836441f1887e7dd2acb0f4d7d0</sha1>
+  </file>
+  <file name="MSNV TECH Logo_hocr.html" source="derivative">
+    <hocr_char_to_word_module_version>1.1.0</hocr_char_to_word_module_version>
+    <hocr_char_to_word_hocr_version>1.1.15</hocr_char_to_word_hocr_version>
+    <ocr_module_version>0.0.18</ocr_module_version>
+    <format>hOCR</format>
+    <original>MSNV TECH Logo_chocr.html.gz</original>
+    <mtime>1673777438</mtime>
+    <size>760</size>
+    <md5>54039d77822510bb1518cbc817c0f32a</md5>
+    <crc32>90c24ff3</crc32>
+    <sha1>0a308e295de9c2ff683f205983668cdbe257f15a</sha1>
+  </file>
+  <file name="MSNV TECH Logo_hocr_pageindex.json.gz" source="derivative">
+    <hocr_pageindex_module_version>1.0.0</hocr_pageindex_module_version>
+    <hocr_pageindex_hocr_version>1.1.15</hocr_pageindex_hocr_version>
+    <format>OCR Page Index</format>
+    <original>MSNV TECH Logo_hocr.html</original>
+    <mtime>1673777448</mtime>
+    <size>36</size>
+    <md5>4233ab5ab330c91cf81cbac44ea87a43</md5>
+    <crc32>f92b16f9</crc32>
+    <sha1>a0a9653dab9440fff35f867dd9f8a72a83df3a22</sha1>
+  </file>
+  <file name="MSNV TECH Logo_hocr_searchtext.txt.gz" source="derivative">
+    <hocr_fts_text_module_version>1.1.0</hocr_fts_text_module_version>
+    <hocr_fts_text_hocr_version>1.1.15</hocr_fts_text_hocr_version>
+    <word_conf_0_10>0</word_conf_0_10>
+    <word_conf_11_20>0</word_conf_11_20>
+    <word_conf_21_30>0</word_conf_21_30>
+    <word_conf_31_40>0</word_conf_31_40>
+    <word_conf_41_50>0</word_conf_41_50>
+    <word_conf_51_60>0</word_conf_51_60>
+    <word_conf_61_70>0</word_conf_61_70>
+    <word_conf_71_80>0</word_conf_71_80>
+    <word_conf_81_90>0</word_conf_81_90>
+    <word_conf_91_100>0</word_conf_91_100>
+    <format>OCR Search Text</format>
+    <original>MSNV TECH Logo_hocr.html</original>
+    <mtime>1673777456</mtime>
+    <size>28</size>
+    <md5>dc6f15cbf653bb0ebc92be0c0c3c044e</md5>
+    <crc32>6c57fcd4</crc32>
+    <sha1>9c4895ca240cedfe166a00092fbdfa41ea2ac8c3</sha1>
+  </file>
+  <file name="MSNV TECH Logo_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>MSNV TECH Logo.pdf</original>
+    <mtime>1673777421</mtime>
+    <size>114367</size>
+    <md5>ad6e3c3bf6b34ad451886e77b144d2f5</md5>
+    <crc32>1f72736a</crc32>
+    <sha1>bc1b28f0f6c9b7043fe77c98172f869c96ad3333</sha1>
+    <filecount>1</filecount>
+  </file>
+  <file name="MSNV TECH Logo_page_numbers.json" source="derivative">
+    <format>Page Numbers JSON</format>
+    <original>MSNV TECH Logo_djvu.xml</original>
+    <mtime>1673777466</mtime>
+    <size>117</size>
+    <md5>350e1dd45887de7f9aab96c988b20ae6</md5>
+    <crc32>b0260eba</crc32>
+    <sha1>2598cc915f15da855634b8580d64e814c86dc83c</sha1>
+  </file>
+  <file name="MSNV TECH Logo_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>MSNV TECH Logo_djvu.xml</original>
+    <mtime>1673777465</mtime>
+    <size>545</size>
+    <md5>ecb39cfaa8b3ba5fd0e2bc51e3725768</md5>
+    <crc32>22ae6811</crc32>
+    <sha1>ed7ca1b8ef9b6648ceddd66a7c0d9b81b2d2df73</sha1>
+  </file>
+  <file name="Vector Exported Images x1/MSNV TECH Logo.jpg" source="original">
+    <mtime>1673776388</mtime>
+    <size>26851</size>
+    <md5>ddb809ef78db2e464ea7676051f3e53d</md5>
+    <crc32>c5b0bc9b</crc32>
+    <sha1>f0afbb23609d755af8dc16600f7d61e999cfdd62</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Vector Exported Images x1/MSNV TECH Logo.png" source="original">
+    <mtime>1673776390</mtime>
+    <size>31536</size>
+    <md5>3dda8bdbe2365dd2a5bea14111cebc1b</md5>
+    <crc32>ebc2d85d</crc32>
+    <sha1>639cb3190810611d390d036aab5285d22b14593c</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Vector Exported Images x1/MSNV TECH Logo.tif" source="original">
+    <mtime>1673776394</mtime>
+    <size>1048706</size>
+    <md5>836b7032a8bceefbe59957f12c8b4b8d</md5>
+    <crc32>868c63e7</crc32>
+    <sha1>fdfb8aad030084b3dfd921b097aa84a3b04cb68e</sha1>
+    <format>TIFF</format>
+  </file>
+  <file name="Vector Exported Images x24/MSNV TECH Logo.jpg" source="original">
+    <mtime>1673776455</mtime>
+    <size>1995472</size>
+    <md5>47ec9caeb0fd9b6ac18a2f792974cc78</md5>
+    <crc32>1fb0fcc3</crc32>
+    <sha1>0a1d054a557ed0e06e29e33badffd0f29cca772f</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Vector Exported Images x24/MSNV TECH Logo.png" source="original">
+    <mtime>1673776485</mtime>
+    <size>1021821</size>
+    <md5>785f81367712d121d949ca47fa12849f</md5>
+    <crc32>bd497cb8</crc32>
+    <sha1>205287a34f91075a7a778328d71832559539bd9f</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Vector Exported Images x24/MSNV TECH Logo.tif" source="original">
+    <mtime>1673777381</mtime>
+    <size>400000130</size>
+    <md5>972e96b2ebdb501c0fcf6f9b7c779a8c</md5>
+    <crc32>83763c9f</crc32>
+    <sha1>78075f91fd2f65fdf2cb71ab68f9f16f3920c4b2</sha1>
+    <format>TIFF</format>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1673776406</mtime>
+    <size>11683</size>
+    <md5>4a9866c617e7bdf22b1e77afeb556dd6</md5>
+    <crc32>b35a9d98</crc32>
+    <sha1>6b310be3098ff8df1b8a29aa2b7e254624b459dc</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="msnv-tech-logo_archive.torrent" source="metadata">
+    <btih>722847f0ca76bd311f9b0b6a6e4d165a06ec6014</btih>
+    <mtime>1705919519</mtime>
+    <size>21170</size>
+    <md5>a77d9288d4bb70ecc1cf9de12d2f79c8</md5>
+    <crc32>f7f26670</crc32>
+    <sha1>e1c46b64ee43c27d46a421b7826f843e492b1d31</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="msnv-tech-logo_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>326e2b1e82ae75d577946f8d74911940</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="msnv-tech-logo_meta.sqlite" source="original">
+    <mtime>1673783923</mtime>
+    <size>49152</size>
+    <md5>3d671f03d5942ca4ea1d2bce74db0cfc</md5>
+    <crc32>f7e09932</crc32>
+    <sha1>24bce33a7d88030d1b20d59dcc1dc9a0662315ef</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="msnv-tech-logo_meta.xml" source="original">
+    <mtime>1705919513</mtime>
+    <size>905</size>
+    <md5>d6f4ab66281e42f401b524d6c2bef9cc</md5>
+    <crc32>75bd3a29</crc32>
+    <sha1>1b90556129348a8957cb5c3915a46a2d8ca3376c</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
